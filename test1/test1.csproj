@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <LangVersion>8</LangVersion>
+        <TargetFrameworks>net8.0;net48</TargetFrameworks>
+    </PropertyGroup>
+
+</Project>

@@ -81,7 +81,7 @@ namespace Example2
       //wssv.ReuseAddress = true;
 
       // Add the WebSocket services.
-      //wssv.AddWebSocketService<Echo> ("/Echo");
+      wssv.AddWebSocketService<Echo> ("/Echo");
       wssv.AddWebSocketService<Chat> ("/Chat");
 
       // Add the WebSocket service with initializing.
